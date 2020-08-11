@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@400;600&family=Roboto:wght@300;400;500;700&display=swap');
+:root{
+	--color-azul: #00acb3;
+	--color-rojo: #c9302c;
+	--color-negro: #222;
+}
+
+body{
+	font-family: 'Roboto', sans-serif, 'Hind', sans-serif;
+	font-size: 16px;
+	color: var(--color-negro);	
+}
+
+header{
+	background-color: #f8f9fb;
+}
+
+header img{
+	align-content: center;
+}
+
+.btn{
+	background-color: var(--color-azul);
+	text-transform: uppercase;
+	padding: 20px;
+	border-radius: 1px;
+	font-size: 14px;
+	font-weight: 600;
+	color: #FFF;
+}
+
+.btn-azul{
+	background-color: var(--color-azul);
+}
+
+.section{
+	padding: 60px 0;
+}
+
+#sweat{
+	padding-top: 200px;
+	background-color: #252830;
+	color: #FFF;
+	padding-left: 60px;
+}
+
+.subtitulo{
+	font-family: 'Roboto';
+	font-size: 40px;
+	font-weight: 300;
+}
+
+.titulo{
+	font-family: 'Roboto';
+	font-size: 40px;
+	font-weight: 700;
+}
+
+#sweat p{
+	font-family: 'Hind';
+	font-size: 20px;
+	color: #888888;
+	width: 35%;
+	padding-bottom: 50px;
+}
+
+.btn-blanco{
+	background-color: #FFF;
+	color: var(--color-azul);
+}
+
+#sweat i{
+	padding-right: 15px;
+}
+
+#our-classes{
+	background-color: #FFF;
+	text-align: center;
+}
+
+.classes{
+	font-family: 'Roboto';
+	font-size: 30px;
+	color: var(--color-azul);
+	text-transform: uppercase;
+	font-weight: 300;
+}
+
+#our-classes img{
+	width: 100px;
+	padding-bottom: 10px;
+}
+
+#our-classes h2{
+	color: #888888;
+	padding-bottom: 40px;
+}
+
+#our-classes article{
+	padding-bottom: 50px;
+}
+
+#pass{
+	font-family: 'Roboto';
+	font-weight: 300;
+	background-color: #252830;
+	align-content: center;
+	padding-top: 120px;
+	padding-bottom: 120px;
+	color: #FFF;
+}
+
+.btn-rojo{
+	background-color: var(--color-rojo);
+}
+
+#pass h2{
+	width: 100%;
+}
+
+#fitness{
+	background-image: url("../img/health-fitness.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-bottom: 20%;
+}
+
+#fitness h2{
+	padding-top: 30%;
+	padding-left: 10%;
+}
+
+#fitness h4{
+	font-family: 'Roboto';
+	font-weight: 300;
+	padding-left: 10%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: var(--color-azul);
+	
+}
+
+#fitness p{
+	padding-left: 10%;
+	width: 50%;
+}
+
+.btn-fit{
+	padding-left: 40px;;
+	color: var(--color-azul);
+	background-color: transparent;
+	border: var(--color-azul) solid;
+}
+
+#our-trainers{
+	background-color: #252830;
+	align-content: center;
+	text-align: center;
+	color: #FFF;
+}
+#our-trainers h2{
+	text-align: center;
+}
+
+#contact{
+	background-image: url("../img/bg-map.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#contact h2{
+	font-family: 'Roboto';
+	font-weight: 300;
+	color: #FFF;
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+
+#contact p{
+	font-family: 'Hind';
+	font-weight: 400;
+	font-size: 20px;
+	color: #FFF;
+}
+
+#contact h5{
+	font-family: 'Hind';
+	font-weight: 400;
+	font-size: 20px;
+	color: #FFF;
+	width: 50%;
+}
+
+#subscribe{
+	padding-bottom: 40px;
+}
+
+#subscribe h2{
+	font-family: 'Roboto';
+	font-weight: 300;
+	padding-top: 15%;
+	padding-left: 30%;
+	
+}
+
+#subscribe h3{
+	font-family: 'hind';
+	font-size: 16px;
+	color: #B3B3B3;
+	padding-left: 30%;
+	padding-top: 10px;
+}
+
+footer{
+	font-size: 30px;
+	padding: 10%;
+	background-color: #FFF;
+	align-content: center;
+}
+
+
+
+
+
+
+
+
+
